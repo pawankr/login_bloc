@@ -1,6 +1,6 @@
 # login_bloc
 
-A new Flutter project.
+A Flutter project to understand BLOC patterns.
 
 ## Getting Started
 
